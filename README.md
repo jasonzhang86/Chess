@@ -4,7 +4,7 @@ This chess game is inplemented using Objected-Oriented Programming. The six kind
 The game contains all valid moves of a real world chess game, including the special moves (castling, promotion and en passant). <br>
 <br>
 
-There are three game modes: player vs player, player vs AI, and AI vs AI. <br>
+There are three game modes: player vs player, player vs computer, and computer vs computer. <br>
 The AI has three different levels: 1) random move 2) priortize capturing opponent pieces 3) priortize protecting own pieces <br>
 The AI will choose to capture/protect more valuable pieces when there are multiple possible moves (e.g. capture queen > capture castle) <br>
 <br>
